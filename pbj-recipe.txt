@@ -1,0 +1,10 @@
+Ingredients:
+ - peanut butter
+ - jelly
+ - bread
+
+ Directions:
+ 1. Spread peanut butter onto one piece of bread.
+ 2. Spread jelly onto the other piece of bread.
+ 3. Put both pieces of bread together.
+ 4. Eat sandwich.
